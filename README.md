@@ -57,4 +57,17 @@
 
 지금 바로 **백준의 'Hello World'** 문제부터 시작해 보세요! 꾸준함이 정답입니다.
 
-### 구글코랩 / vscode.dev / github.dev
+### 온라인 개발환경 (코드 작성, 실행, 디버깅, 저장 기능 지원)
+구글코랩 / vscode.dev / github.dev (GitHub Codespaces: 월 60시간 무료사용)
+
+[ GitHub Codespaces : 5. 월 60시간 무료 사용시간 아껴 쓰는 꿀팁 (중요) ]
+1. 자동 중지 시간 설정 (Idle Timeout): 기본값은 30분 (창을 닫아도 30분 동안은 서버가 켜져 있어 시간이 차감됨)
+   - 해결방법 : 설정(Settings) -> Codespaces -> Default idle timeout에서 5분~10분으로 줄이기
+2. 미사용 Codespace 삭제
+   - github.com/codespaces에 접속하면 현재 생성된 모든 환경이 보입니다.
+   - 작업이 끝난 프로젝트는 **'Delete'**를 눌러 삭제해야 스토리지(15GB) 점유를 막을 수 있습니다.
+3. 머신 사양 확인: 기본은 2-core
+   - 고사양 작업이 아니라면 굳이 4-core 이상을 선택하지 마세요. (시간이 2배로 빨리 소모됩니다.)
+
+
+
